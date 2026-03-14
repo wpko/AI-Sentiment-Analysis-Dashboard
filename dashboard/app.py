@@ -3,7 +3,7 @@ import requests
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://ai-sentiment-analysis-dashboard-rw82.onrender.com/predict"
 
 st.title("AI sentiment Analysis Dashboard")
 text_input = st.text_area("Enter text to analyze sentiment")
