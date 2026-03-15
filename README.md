@@ -138,7 +138,7 @@ uvicorn api.main:app --reload
 API will run at
 [http://127.0.0.1:8000](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)
 API documentation
-[http://127.0.0.1:8000/docs](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)/docs
+[http://127.0.0.1:8000/docs](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)
 
 ---
 
