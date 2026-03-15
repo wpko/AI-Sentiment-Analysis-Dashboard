@@ -37,12 +37,12 @@ API Documentation
 
 # Screenshot
 
-![Dashboard](fastAPI.png)
-![Dashboard](streamlit.png)
-![Dashboard](streamlit1.png)
-![Dashboard](streamlit2.png)
+## Screenshot
 
----
+![Dashboard](dashboard/fastAPI.png)
+![Dashboard](dashboard/streamlit.png)
+![Dashboard](dashboard/streamlit1.png)
+![Dashboard](dashboard/streamlit2.png)
 
 # System Architecture
 
