@@ -182,23 +182,19 @@ Sentiment: Positive
 Probability: 0.91
 
 
-Future Improvements
+## Future Improvements
 
-Deploy with Docker
+- Deploy with Docker  
+- Add sentiment history database  
+- Improve the model using deep learning  
+- Add multi-language sentiment analysis  
+- Add a real-time analytics dashboard  
 
-Add sentiment history database
+---
 
-Improve model using deep learning
+## Author
 
-Add multi-language sentiment analysis
-
-Add real-time analytics dashboard
-
-Author
-
-Wai Lay
-
+**Wai Lay**  
 Aspiring Python / AI Developer
 
-GitHub
-https://github.com/wpko
+🔗 **GitHub:** [wpko](https://github.com/wpko)
