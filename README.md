@@ -29,12 +29,6 @@ API Documentation
 
 ---
 
-# Demo
-
-![Demo](images/demo.gif)
-
----
-
 # Screenshot
 
 ## Screenshot
@@ -43,6 +37,8 @@ API Documentation
 ![Dashboard](dashboard/streamlit.png)
 ![Dashboard](dashboard/streamlit1.png)
 ![Dashboard](dashboard/streamlit2.png)
+
+---
 
 # System Architecture
 
@@ -63,7 +59,7 @@ Sentiment Prediction
 # Features
 
 - Real-time sentiment prediction
-- FastAPI REST API backend
+- FastAPI backend
 - Streamlit interactive dashboard
 - Sentiment probability visualization
 - Word Cloud visualization
@@ -100,16 +96,17 @@ api
 └── main.py  
 
 dashboard  
-└── app.py  
+└── app.py
+└── fastAPI.png
+└── streamlit.png
+└── streamlit1.png
+└── streamlit2.png
 
 model  
 └── sentiment_model.pkl  
 
-data  
-
-images  
-├── demo.gif  
-└── screenshot.png  
+data
+└── dataset.csv
 
 requirements.txt  
 README.md
