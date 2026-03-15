@@ -163,22 +163,24 @@ Request
 {
 "text": "This movie is amazing"
 }
+```
 
 Response
 
-{
+```{
 "sentiment": "Positive",
 "probability": 0.91
 }
+```
 Example Prediction
 
 Input
 
-This movie is amazing
+```This movie is amazing```
 
 Output
 
-Sentiment: Positive
+```Sentiment: Positive
 Probability: 0.91```
 
 ---
