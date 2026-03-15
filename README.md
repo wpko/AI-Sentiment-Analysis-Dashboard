@@ -22,7 +22,7 @@ Streamlit Dashboard
 https://your-streamlit-render-url.onrender.com
 
 FastAPI API  
-https://your-api-render-url.onrender.com
+[https://your-api-render-url.onrender.com](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)
 
 API Documentation  
 https://your-api-render-url.onrender.com/docs
