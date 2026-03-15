@@ -37,7 +37,10 @@ API Documentation
 
 # Screenshot
 
-![Dashboard](images/screenshot.png)
+![Dashboard](fastAPI.png)
+![Dashboard](streamlit.png)
+![Dashboard](streamlit1.png)
+![Dashboard](streamlit2.png)
 
 ---
 
