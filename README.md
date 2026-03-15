@@ -182,7 +182,7 @@ Input
 Output
 
 ```Sentiment: Positive
-Probability: 0.91```
+Probability: 0.91
 
 ---
 
