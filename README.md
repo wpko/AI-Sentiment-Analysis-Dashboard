@@ -167,7 +167,8 @@ Request
 
 Response
 
-```{
+```json
+{
 "sentiment": "Positive",
 "probability": 0.91
 }
