@@ -199,7 +199,7 @@ Probability: 0.91
 
 ## Author
 
-**Wai Lay**  
+**Wai Phyo Ko**  
 Aspiring Python / AI Developer
 
 🔗 **GitHub:** [wpko](https://github.com/wpko)
