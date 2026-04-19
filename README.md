@@ -41,7 +41,7 @@ API Documentation
 ---
 
 # System Architecture
-
+```
 User Input  
 ↓  
 Streamlit Dashboard  
@@ -53,7 +53,7 @@ TF-IDF Vectorizer
 Machine Learning Model  
 ↓  
 Sentiment Prediction
-
+```
 ---
 
 # Features
@@ -118,23 +118,29 @@ README.md
 
 Clone the repository
 
+```
 git clone https://github.com/wpko/ai-sentiment-analysis-dashboard.git
-
+```
 
 Navigate into project
 
+```
 cd ai-sentiment-analysis-dashboard
-
+```
 
 Install dependencies
 
+```
 pip install -r requirements.txt
+```
 
 ---
 
 # Run FastAPI Server
-uvicorn api.main:app --reload
 
+```
+uvicorn api.main:app --reload
+```
 
 API will run at
 [http://127.0.0.1:8000](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)
