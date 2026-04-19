@@ -91,7 +91,7 @@ Visualization
 # Project Structure
 
 ai-sentiment-analysis-dashboard
-
+```
 api  
 └── main.py  
 
@@ -110,6 +110,7 @@ data
 
 requirements.txt  
 README.md
+```
 
 ---
 
