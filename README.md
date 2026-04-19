@@ -27,7 +27,7 @@ FastAPI API
 API Documentation  
 [https://your-api-render-url.onrender.com/docs](https://ai-sentiment-analysis-dashboard-rw82.onrender.com)
 
-## ⚠️ **Important:** Please run the FastAPI backend first before using the Streamlit app. 
+## ⚠️ IMPORTANT : Please run the FastAPI backend first before using the Streamlit app. 
 ## Otherwise, the app will not return any responses.
 
 ---
